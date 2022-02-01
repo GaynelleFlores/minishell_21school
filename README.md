@@ -11,8 +11,8 @@ Minishell is the School21 project. It's a is a command interpreter based on bash
 - exit with no options
 ## Usage
 ```
-<!--Compile-->
+//Compile
 make
-<!--Launch the shell-->
+//Launch the shell
 ./minishell
 ```
