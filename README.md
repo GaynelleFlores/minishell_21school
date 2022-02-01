@@ -9,3 +9,8 @@ Minishell is the School21 project. It's a is a command interpreter based on bash
 - unset with no options
 - env with no options
 - exit with no options
+## Usage
+```
+	make
+	./minishell
+```
